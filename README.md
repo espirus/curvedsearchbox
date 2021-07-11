@@ -1,2 +1,0 @@
-# curvedsearchbox
-Created with CodeSandbox
