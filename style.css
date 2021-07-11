@@ -1,5 +1,26 @@
-* {
-  box-sizing: border-radius:90px;
+* input, button
+{
+    color: #fff;
+    font-family: Nunito;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background-color: transparent;
+}
+
+#cover
+{
+    position: absolute;
+    top: 20%;
+    left: 0;
+    right: 0;
+    width: 1050px;
+    padding: 35px;
+    margin: -83px auto 0 auto;
+    background-color: #e3e6e4;
+    border-radius: 70px;
+    box-shadow: 0 10px 40px #ff7c7c, 0 0 0 20px #ffffffeb;
+    transform: scale(0.6);
 }
 
 body {
